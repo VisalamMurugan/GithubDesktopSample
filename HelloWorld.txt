@@ -5,9 +5,8 @@ public class HelloWorld
 {
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to java ,base master!!!");
-		System.out.println("Welcome to Feature 1!!!");
-
+		System.out.println("Welcome to java ,base master,feature1!!!");
+		
 
 	}
 }
